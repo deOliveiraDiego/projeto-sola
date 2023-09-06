@@ -1,0 +1,33 @@
+contratante =
+endereco =
+numero =
+bairro =
+cidade =
+estado =
+cep =
+
+representante =
+nacionalidade =
+estado_civil =
+profissao =
+rg =
+orgao_emissor =
+cpf =
+endereco_representante =
+numero_representante =
+bairro_representante =
+cidade_representante =
+estado_representante =
+cep_representante =
+
+local_evento =
+data_evento =
+inicio_evento =
+endereco_evento =
+numero_evento =
+bairro_evento =
+cidade_evento =
+estado_evento =
+cep_evento =
+
+email_nf =

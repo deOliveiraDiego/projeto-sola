@@ -1,0 +1,38 @@
+*Sobre a igreja contratante:*
+contratante:
+endereco:
+numero:
+bairro:
+cidade:
+estado:
+cep:
+cnpj:
+
+*Sobre o representante do contrato:*
+representante do contratante:
+nacionalidade:
+estado_civil:
+profissao:
+rg:
+orgao_emissor:
+cpf:
+endereco_representante:
+numero_representante:
+bairro_representante:
+cidade_representante:
+estado_representante:
+cep_representante:
+
+*Sobre o local do evento:*
+local_evento:
+data_evento:
+horario_evento:
+entrada (gratuita ou bilhetada):
+endereco_evento:
+numero_evento:
+bairro_evento:
+cidade_evento:
+estado_evento:
+cep_evento:
+
+email_para_contrato:

@@ -1,0 +1,35 @@
+contratante = 'Pregando as Escrituras'.split(' ').map(&:capitalize).join(' ')
+endereco = 'Rua Geraldo Grossi'.split(' ').map(&:capitalize).join(' ')
+numero = '100'
+bairro = 'Parque Said Jorge'.split(' ').map(&:capitalize).join(' ')
+cidade = 'Monte Mor'.split(' ').map(&:capitalize).join(' ')
+estado = 'SP'
+cep = '13197-572'
+cnpj = '45192154000160'
+
+representante = 'Caio da Silva Modesto'.split(' ').map(&:capitalize).join(' ')
+nacionalidade = 'brasileiro'.downcase
+estado_civil = 'casado'.downcase
+profissao = 'social media'.downcase
+rg = '52991331'
+orgao_emissor = 'SSP'
+cpf = ''
+endereco_representante = 'Rua Geraldo Grossi'.split(' ').map(&:capitalize).join(' ')
+numero_representante = '100'
+bairro_representante = 'Parque Said Jorge'.split(' ').map(&:capitalize).join(' ')
+cidade_representante = 'Monte Mor'.split(' ').map(&:capitalize).join(' ')
+estado_representante = 'SP'.split(' ').map(&:capitalize).join(' ')
+cep_representante = '13197-572'
+
+local_evento = 'Seminário Presbiteriano do Sul'
+data_evento = '01/09/2023'
+horario_evento = '14h30'
+entrada = 'paga'
+endereco_evento = 'Avenida Brasil'
+numero_evento = '1200'
+bairro_evento = 'Jardim Brasil'
+cidade_evento = 'Campinas'
+estado_evento = 'São Paulo'
+cep_evento = '13073-148'
+
+email_para_contrato = 'caio.silvamodesto_@hotmail.com'
